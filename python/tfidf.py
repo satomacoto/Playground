@@ -19,6 +19,9 @@ B
 C
 A:0.5 B:0.5
 A:1.0 B:0.5 C:2.0
+
+How to use:
+> cat documents.txt|python tfidf.py
 '''
 import sys, math
 from collections import defaultdict
