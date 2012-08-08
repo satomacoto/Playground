@@ -1,0 +1,15 @@
+documents.txt
+
+articles in Category:Artificial intelligence of Wikipedia.
+removed stopwords.
+stemmed.
+
+
+tf.py
+
+calculates tf.
+
+
+tfidf.py
+
+calculates tf-idf.
